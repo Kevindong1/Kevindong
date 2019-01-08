@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+a {
+        color: white;
+    }
+div {
+       background-color:#0000b3;
+        font-size:25px;
+        padding-right:30px;
+        padding-left:30px;
+    }
+footer {
+      display:inline;
+      margin:10px;
+      font-size:100px;
+      background-color: navy;
+         }
+p {
+      color:yellow;
+      background-colr:navy; 
+      font-size:50px;
+             }
+body {
+       background-color:#ffffff;
+      }
+strong {
+         color: yellow;
+      }
+h2 {
+        color:yellow;
+   }
+#diff {
+     color: black;
+     background-color: #595959;
+      margin: 0px;
+	}
+form { position: absolute;
+  left: 750px;
+  top: 750px;
+   }
+h1 {
+      color:yellow;
+   }
